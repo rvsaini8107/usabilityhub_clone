@@ -171,7 +171,7 @@ color: var(--heading);
     justify-content: center;
     justify-self: center;
     padding: 15px 0px;
-    background-image: url("/images/header_above_bg.png");
+    background-image: url("./images/header_above_bg.png");
     background-color: var(--headerBg);
 
     background-position: 0 0;
@@ -179,7 +179,7 @@ color: var(--heading);
     color:var(--white);
   }
   .sidelogo{
-    /* background-image: url("/images/logoside.svg"); */
+    /* background-image: url("./images/logoside.svg"); */
   }
   .nav-item1 {
     display: flex;
@@ -192,7 +192,7 @@ color: var(--heading);
     float: none;
 
     align-items: center;
-    background-image: url("/images/logoside.svg");
+    background-image: url("./images/logoside.svg");
     background-position: 50% 50%;
     background-size: 151px 33px;
     background-repeat: no-repeat;
@@ -341,7 +341,7 @@ color: var(--heading);
         height: 40px;
       }
      .container-main-div{ 
-        background-image: url("/images/Oval.svg");
+        background-image: url("./images/Oval.svg");
         background-position: 100% 100%;
         background-size: 100% 100%;
         background-repeat: no-repeat;
@@ -537,7 +537,7 @@ color: var(--heading);
         margin-left: -30px;
         padding-top: 15px;
         padding-left: 30px;
-        background-image: url("https://assets-global.website-files.com/5af97a9c84ec1bc79d81b5f4/5af9a44aa9b84e59b0b95121_quote.svg");
+        background-image: url("./images/quote.svg");
         background-position: 0 0;
         background-size: 64px;
         background-repeat: no-repeat;
@@ -613,16 +613,16 @@ color: var(--heading);
         flex-direction: row-reverse;
       }
       #plateform1{
-        background-image: url("images/image1.jpg");
+        background-image: url("./images/image1.jpg");
       }
       #plateform2{
-        background-image: url("images/image2.jpg");
+        background-image: url("./images/image2.jpg");
       }
       #plateform3{
-        background-image: url("images/image3.jpg");
+        background-image: url("./images/image3.jpg");
       }
       #plateform4{
-        background-image: url("images/image4.jpg");
+        background-image: url("./images/image4.jpg");
       }
       .examplecollection-item {
         position: static;
@@ -655,7 +655,7 @@ color: var(--heading);
         -ms-flex: 0 0 auto;
         flex: 0 0 auto;
         border-radius: 4px;
-        background-image: url("https://d3e54v103j8qbb.cloudfront.net/img/background-image.svg");
+        background-image: url("./images/background_image.svg");
         background-position: 50% 50%;
         background-size: cover;
         background-repeat: no-repeat;
@@ -855,7 +855,7 @@ color: var(--heading);
         -webkit-align-self: auto;
         -ms-flex-item-align: auto;
         align-self: auto;
-        background-image: url("/images/cover_border_div.png");
+        background-image: url("./images/cover_border_div.png");
         background-size: contain;
         font-family: 'Averta PE',sans-serif;
         color: #8ba6c0;
@@ -887,7 +887,7 @@ color: var(--heading);
         -webkit-align-items: center;
         -ms-flex-align: center;
         align-items: center;
-        background-image: url("/images/cover5.png");
+        background-image: url("./images/cover5.png");
         background-position: 50% 50%;
         background-size: cover;
         background-repeat: no-repeat;
